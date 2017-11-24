@@ -1,5 +1,5 @@
 {
-  "name": "polymer-build",
+  "name": "@nuxeo/polymer-build",
   "version": "2.0.0",
   "description": "A library of Gulp build tasks",
   "main": "lib/polymer-build.js",
